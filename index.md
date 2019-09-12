@@ -1,17 +1,12 @@
 ## Welcome to Karunakar's Portfolio
 
-<div>
+<div col-6 >
   <div class="push-content__container">
       <section>
         <div class="hero__wrapper">
     <div class="hero__container">
         <h4 class="section__title">Hello there!</h4>
         <div class="clearix">
-
-            
-            
-            
-
             <p>I am Masoom, a Front-end Developer and a UX Engineer based in Bangalore, India. I like to develop
                 differential and effective User Experiences for digital products using an amalgamation of latest
                 technology and best practises. I started my career as
