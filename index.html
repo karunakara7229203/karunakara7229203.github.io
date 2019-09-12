@@ -58,21 +58,7 @@ layout: none
     }
   }
  </style>
-  <script>
-    $(document).ready(function() {
-  buttonClick('#redBlack');
-  
-})
 
-function buttonClick(string) {
-  $(string).find(".button").click(function() {
-    if (!$(this).hasClass('active')) {
-      $(string + ' .active').removeClass('active');
-      $(this).addClass('active');
-    }
-  })
-}
-    </script>
 </head>
   
 <body>
@@ -98,5 +84,20 @@ function buttonClick(string) {
   <div class="button"> <span class="glyphicon glyphicon-cutlery"></span> Restaurants</div>
   <div class="button"> <span class="glyphicon glyphicon glyphicon-film"></span> Cinema</div>
 </div>
+      <script>
+    $(document).ready(function() {
+  buttonClick('#redBlack');
+  
+})
+
+function buttonClick(string) {
+  $(string).find(".button").click(function() {
+    if (!$(this).hasClass('active')) {
+      $(string + ' .active').removeClass('active');
+      $(this).addClass('active');
+    }
+  })
+}
+    </script>
 </body>
 </html>
