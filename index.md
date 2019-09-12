@@ -41,7 +41,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
   <div class="button active"> <span class="glyphicon glyphicon-credit-card"></span> Shopping</div>
   <div class="button"> <span class="glyphicon glyphicon-cutlery"></span> Restaurants</div>
   <div class="button"> <span class="glyphicon glyphicon glyphicon-film"></span> Cinema</div>
-</div>
  <script>
    $(document).ready(function() {
   buttonClick('#redBlack');
