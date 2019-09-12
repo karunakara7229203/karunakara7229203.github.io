@@ -9,19 +9,19 @@
 </head>
 <div class="container">
   <div class="row">
-          <div class="col-sm-3">karunakar</div>
+          <div class="col-sm-3">karunakar3!</div>
                          <div class="col-sm-9">
 <body>
 
 <div class="container-fluid">
-  <h1>No gutters</h1>
-  <p>Use the .row-no-gutters class to remove the gutters from a row and its columns:</p>
+  <h1>KARUNAKAR CV!</h1>
+  <p>KARUNAKAR1!</p>
   <div class="row row-no-gutters">
     <div class="col-sm-4" style="background-color:lavender;">.col-sm-4</div>
     <div class="col-sm-8" style="background-color:lavenderblush;">.col-sm-8</div>
   </div>
   <br>
-  <p>And here's a row with gutters to demonstrate the differences:</p>
+  <p>KARUNAKAR2!</p>
   <div class="row">
     <div class="col-sm-4" style="background-color:lavender;">.col-sm-4</div>
     <div class="col-sm-8" style="background-color:lavenderblush;">.col-sm-8</div>
@@ -33,4 +33,3 @@
 </div>
 </div>
 </html>
-
