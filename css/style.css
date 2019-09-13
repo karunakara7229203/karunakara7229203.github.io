@@ -16,7 +16,7 @@ body {
 }
 
 a {
-  color: #f82249;
+  color: #e8e6ec;
   transition: 0.5s;
 }
 
@@ -159,6 +159,7 @@ h6 {
   right: 0;
   transition: all 0.5s;
   z-index: 997;
+  background-color: teal;
 }
 
 #header.header-scrolled,
