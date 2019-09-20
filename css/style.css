@@ -672,7 +672,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #about:before {
   content: "";
-  background: rgba(13, 20, 41, 0.8);
+  background: rgba(30, 57, 138, 0.8);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -697,7 +697,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #about p {
   font-size: 14px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   color: #fff;
 }
 
